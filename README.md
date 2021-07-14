@@ -1,5 +1,5 @@
 # Fault-detection-system
-# code
+## code
 #include <Servo.h>
 
 #include <Servo.h>
