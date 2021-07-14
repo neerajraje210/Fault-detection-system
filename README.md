@@ -1,5 +1,5 @@
 # Fault-detection-system
-# code
+## code
 #include <Servo.h>
 
 #include <Servo.h>
@@ -31,11 +31,14 @@ void loop(){
   {tap_servo.write(0);
   
   }
+  
   if (val==1)
   
   {
+  
   tap_servo.write(360);
+  
     }
 }
-# Video
+## Video
 
